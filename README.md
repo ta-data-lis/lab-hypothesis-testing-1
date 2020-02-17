@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lab we'll familiarize you with one sample hypothesis tests. You will also write Python code to conduct one sample hypothesis tests as well as construct confidence intervals.
+ In this lab we'll familiarize you with one sample hypothesis tests. You will also write Python code to conduct one sample hypothesis tests as well as construct confidence intervals.
 
 ## Deliverables
 
